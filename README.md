@@ -89,16 +89,6 @@ graph LR
 - **Microservices** → Modern architectures
 - **Docker + Kubernetes** → DevOps and deployment
 
-## 🎯 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/sarabtrg/java-springboot-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarabtrg&repo=java-springboot-project&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/sarabtrg/mern-fullstack-app">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarabtrg&repo=mern-fullstack-app&theme=tokyonight" />
-  </a>
-</div>
 
 ## 🌐 Connect with Me
 
@@ -108,9 +98,6 @@ graph LR
   </a>
   <a href="mailto:sarabtrg@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="tel:659633354">
-    <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </div>
 
